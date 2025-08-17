@@ -28,3 +28,17 @@ csv: For reading from and writing to the CSV data file.
 os: To check for the existence of the data file on startup.
 
 datetime: To automatically generate a timestamp for each new expense.
+
+How to Run the Application
+Ensure you have Python 3 installed on your system.
+
+Clone this repository to your local machine.
+
+Open a terminal and navigate to the project's root directory.
+
+Run the application with the following command:
+
+Bash
+
+python tracker.py
+Follow the on-screen menu prompts to add or view expenses. The expenses.csv file will be created automatically in the same directory.
